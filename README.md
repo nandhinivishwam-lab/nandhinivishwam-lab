@@ -1,5 +1,16 @@
-## Hi there 👋
 
+# Hi, I'm Nandhini 👋
+
+Aspiring data analyst who loves turning messy data into clear stories.
+
+## What I'm working on
+- ☕ [Chai vs Coffee Index](https://github.com/nandhinivishwam-lab/chai-vs-coffee-index): a Python analysis of India's tea and coffee habits
+
+## Skills
+Python · Pandas · NumPy · Matplotlib · Git & GitHub
+
+## Learning next
+SQL · Streamlit dashboards · Power BI
 <!--
 **nandhinivishwam-lab/nandhinivishwam-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
